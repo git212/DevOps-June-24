@@ -1,6 +1,10 @@
 Bharat Mahanta
 Ghatgone
 JP Morgan chase
+<<<<<<< HEAD
 Architect
 Git, Jenkins, Docker, Kubernetes.
 Some changes
+=======
+Architect
+>>>>>>> parent of 2133f8c (skills)

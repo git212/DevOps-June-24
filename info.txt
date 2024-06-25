@@ -2,3 +2,4 @@ Bharat Mahanta
 Ghatgone
 JP Morgan chase
 Architect
+Git, Jenkins, Docker, Kubernetes.

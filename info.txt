@@ -5,3 +5,4 @@ Architect
 Git, Jenkins, Docker, Kubernetes.
 Some changes
 Architect
+10 LPA
